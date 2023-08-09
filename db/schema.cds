@@ -6,7 +6,7 @@ entity Products {
         Description     : String;
         ImageUrl        : String;
         ReleaseDate     : DateTime;
-        DiscotinuedDate : DateTime;
+        DiscontinuedDate : DateTime;
         Price           : Decimal(16, 2);
         Height          : Decimal(16, 2);
         Width           : Decimal(16, 2);
